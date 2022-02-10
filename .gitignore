@@ -12,3 +12,10 @@ node_modules
 test/util/playground.js
 .idea/
 electron*
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
